@@ -31,9 +31,9 @@ Welcome to my data analytics portfolio, where I showcase my projects in SQL, R, 
 
 ##  Let's Connect!  
 
-**LinkedIn:** https://www.linkedin.com/in/adamcasspi(#)
-**GitHub:** https://www.github.com/acasspi(#)
-**Email:** adamcasspi@gmail.com(#)
+- **LinkedIn:** https://www.linkedin.com/in/adamcasspi, 
+- **GitHub:** https://www.github.com/acasspi, 
+- **Email:** adamcasspi@gmail.com
 
 *I’m open to opportunities in healthcare & tech! Feel free to reach out.*  
 
