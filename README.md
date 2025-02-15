@@ -8,17 +8,15 @@ Welcome to my data analytics portfolio, where I showcase my projects in SQL, R, 
 
 ## Featured Projects  
 
-### Healthcare Analytics: Clinical Trial Data Analysis  
+### Healthcare Analytics: Clinical Research Data Analysis  
 - **Tools:** SQL, Tableau  
 - **Skills:** Data Cleaning, Query Optimization, Data Visualization  
-- **Description:** Analyzed patient response data from a clinical trial, identifying key factors impacting drug efficacy.  
-- [🔗 View Project](#)  
+- **Description:** Analyzed patient response data from clinical research, identifying key factors contributing to the development of Alzheimer's disease in diabetes patients.   
 
 ###  Business Insights: Customer Retention Analysis  
 - **Tools:** R, Power BI  
 - **Skills:** Predictive Analytics, Data Visualization, Business Strategy  
-- **Description:** Used R to analyze customer churn data and built Power BI dashboards for key business insights.  
-- [🔗 View Project](#)  
+- **Description:** Used R to analyze customer churn data and built Power BI dashboards for key business insights.   
 
 ---
 
@@ -33,8 +31,8 @@ Welcome to my data analytics portfolio, where I showcase my projects in SQL, R, 
 
 ##  Let's Connect!  
 
-**LinkedIn:** (https://www.linkedin.com/in/adamcasspi/)(#)  
-**GitHub:** github.com/acasspi(#)  
+**LinkedIn:** https://www.linkedin.com/in/adamcasspi 
+**GitHub:** github.com/acasspi 
 **Email:** adamcasspi@gmail.com  
 
 *I’m open to opportunities in healthcare & tech! Feel free to reach out.*  
